@@ -1,3 +1,4 @@
+```
 SpectraLLM/
 ├── models/                          # Model files
 │   ├── SpectraLLM.py               # Main model (time-domain output)
@@ -33,3 +34,4 @@ SpectraLLM/
 ├── train_spectrallm_freqout.py      # Frequency-domain output training script
 ├── run_spectrallm_spring.sh         # Short-term forecasting run script
 └── run_spectrallm_spring_long.sh    # Long-term forecasting run script
+```
